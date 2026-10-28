@@ -6,6 +6,8 @@ I'm most useful where business problems meet AI: I understand enterprise operati
 
 **Stack:** TypeScript · Python · Next.js · React · Tailwind · Node/Express · Supabase · PostgreSQL · OpenAI · Claude · Vercel · Railway · GitHub Actions
 
+**How I build:** everything below was built with AI coding agents (Claude Code) under my direction, from spec to production deploy. I write the specs, review every change, and own the architecture and the data decisions; the agent writes most of the code.
+
 #### 📌 Case studies
 - **[Metatex Sales Platform](https://github.com/senhorbubba/metatex-sales-platform)** — ERP-integrated sales & analytics platform: client 360, data consolidation, automated sales motions
 - **[Onset Assistant](https://github.com/senhorbubba/onset-knowledge-bot)** — a grounded knowledge assistant for operations (answers only from curated content)
