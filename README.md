@@ -1,12 +1,12 @@
 ### Hi, I'm Dariusz 👋
 
-I build AI-powered products that help enterprises capture knowledge, automate workflows, and improve onboarding and sales enablement — bridging enterprise GTM, partnerships, and enough engineering to ship.
+I build AI-powered products that help enterprises capture knowledge, automate workflows, and improve onboarding and sales enablement. I bridge enterprise GTM, partnerships, and enough engineering to ship.
 
 I'm most useful where business problems meet AI: I understand enterprise operations, talk to executives, prototype fast, and turn messy processes into working products.
 
 **Stack:** TypeScript · Python · Next.js · React · Tailwind · Node/Express · Supabase · PostgreSQL · OpenAI · Claude · Vercel · Railway · GitHub Actions
 
-**How I build:** everything below was built with AI coding agents (Claude Code) under my direction, from spec to production deploy. I write the specs, review every change, and own the architecture and the data decisions; the agent writes most of the code.
+**How I build:** everything below was built with AI coding agents (Claude Code) under my direction, from spec to production deploy. I write the specs, review every change, and own the architecture and the data decisions. The agent writes most of the code.
 
 #### 📌 Case studies
 - **[Metatex Sales Platform](https://github.com/senhorbubba/metatex-sales-platform)** — ERP-integrated sales & analytics platform: client 360, data consolidation, automated sales motions
